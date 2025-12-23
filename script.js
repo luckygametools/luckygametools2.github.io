@@ -5,7 +5,7 @@ var downloadUrl="javascript:void(0);";
 var downloadUrl1="https://gofile.io/d/7CseNq";
 var downloadUrl2="https://ranoz.gg/file/5W3vo8HJ";
 var downloadUrl3="https://mega.nz/file/3ogQ1YJS#SlTAAJcXrz6jxPGdHWFPgrmLWz8TB5zGmoiP-CO2xro";
-var downloadUrl4="https://share.feijipan.com/s/C4VCRD2b";
+var downloadUrl4="https://share.feijipan.com/s/S2VMRPug";
 
 // 友情鏈接資料陣列
 const friendLinks = [
